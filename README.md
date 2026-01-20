@@ -1,16 +1,23 @@
-## Hi there 👋
+# Caleb - Cloud & Cyber Training
 
-<!--
-**CalebClarkson/CalebClarkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building Practical Skills in Linux, Cloud, and Security; a focus on automation, infrastructure & defensive security.
 
-Here are some ideas to get you started:
+## Current Focus:
+- Linux Admin & Terminal Workflows
+- Cloud Fundamentals (Azure)
+- Python Scripting
+- Docker & Container Basics
+- Networking & Security Principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+- **Password Strength Checker (Python)** - Enforcing the Basics & Revisions
+- **Docker Web App** - Simple Containerised Web Service Using Nginx
+- **Cloud Notes** - Structured Notes From my Learning of Azure, IAM, Networking
+
+## Tools & Skills:
+- Ubuntu Linux
+- Git / GitHub
+- Python
+- Docker
+- Azure Fundamentals
+- Bash Scripting
